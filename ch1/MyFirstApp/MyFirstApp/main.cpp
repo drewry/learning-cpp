@@ -7,9 +7,19 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    cout << "Hello, World!" << endl;
+    cout << "I am now a C++ programmer." << endl;
+    cout << endl;
+    cout << "Behold my ASCII art:" << endl;
+    cout << "****************" << endl;
+    cout << "*............*.*" << endl;
+    cout << "*.*.*******..*.*" << endl;
+    cout << "*.*.*..........*" << endl;
+    cout << "*.*.*.**********" << endl;
+    cout << "***.***........*" << endl;
+    
     return 0;
 }
