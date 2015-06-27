@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "D90F7516-6C48-0511-1614-F49E03F8192F",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Ch3Project",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
